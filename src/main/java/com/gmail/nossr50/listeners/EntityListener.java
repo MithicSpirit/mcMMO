@@ -935,10 +935,6 @@ public class EntityListener implements Listener {
                                * RESTORES 2 HUNGER - RESTORES 4 1/2 HUNGER @
                                * 1000
                                */
-            case GOLDEN_CARROT: /*
-                                 * RESTORES 3 HUNGER - RESTORES 5 1/2 HUNGER @
-                                 * 1000
-                                 */
             case MUSHROOM_STEW: /*
                                  * RESTORES 4 HUNGER - RESTORES 6 1/2 HUNGER @
                                  * 1000
